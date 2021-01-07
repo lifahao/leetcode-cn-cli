@@ -34,6 +34,7 @@
   "dependencies": {
     "ansi-styles": "3.2.1",
     "cheerio": "0.20.0",
+    "github": "^13.1.1",
     "he": "1.2.0",
     "mkdirp": "0.5.1",
     "moment": "^2.20.1",
